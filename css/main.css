@@ -1061,8 +1061,8 @@ pre code {
   padding-top: 0;
 }
 .headband {
-  background: var(--theme-color);
-  height: 3px;
+  background: none;
+  height: 20px;
 }
 @media (max-width: 991px) {
   .headband {
@@ -1247,7 +1247,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #8785ff;
+    background: #ff3b8c;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
