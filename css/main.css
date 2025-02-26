@@ -1247,7 +1247,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ff3b8c;
+    background: #6571ff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2089,9 +2089,10 @@ pre code {
   line-height: 2;
   padding: 0 15px;
   border: 2px solid #fc6423;
-  border-radius: 2px;
+  border-radius: 10px;
   outline: 0;
   vertical-align: text-top;
+  padding: 0 30px;
 }
 .reward-container button:hover {
   background: #fc6423;
